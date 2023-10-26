@@ -1,1 +1,1 @@
-# openai_api_medium_codes
+# medium_openai_api_examples
